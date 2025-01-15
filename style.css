@@ -19,6 +19,9 @@ nav{
 display: flex;
 justify-content: space-between;
 }
+.nav-logo>img{
+    margin-right: 15px;
+}
 .nav-logo{
     display: flex;
     align-items: center;
